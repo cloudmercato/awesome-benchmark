@@ -27,42 +27,54 @@ CPU
 
 RAM
 ---
-- **iperf**
-- **tracepath**
-- **traceroute**
-- **tcptraceroute**
+- `iperf <https://iperf.fr/>`_:
+  Active measurements of the maximum achievable bandwidth on IP networks.
+- `tracepath <https://linux.die.net/man/8/tracepath>`_:
+  Trace path to destination discovering MTU along this path.
+- `traceroute <https://linux.die.net/man/8/traceroute>`_:
+  racks the route packets taken from an IP network on their way to a given host.
+- `tcptraceroute <https://linux.die.net/man/1/tcptraceroute>`_:
+  traceroute implementation using TCP packets.
 
 
 Storage
 -------
-- **Flexible I/O Tester**
-- **vdbench**
+- `Flexible I/O Tester (FIO <https://fio.readthedocs.io/en/latest/fio_doc.html>`_:
+  Spawns a number of threads or processes doing a particular type of I/O action as specified by the user.
+- `vdbench <https://sourceforge.net/projects/vdbench/>`_:
+  Disk and tape I/O workload generator for verifying data integrity and measuring performance of storage.
 
 Network
 -------
 
 HTTP
 ----
-- **ab**
-- **cURL**
-- **wrk**
-- **os-benchmark**
+- `ab (apache benchmark) <http://httpd.apache.org/docs/2.4/programs/ab.html>`_:
+  Load testing and benchmarking tool for HTTP servers.
+- `cURL <https://curl.se/>`_:
+  Command line tool and library for transferring data with URLs.
+- `wrk <https://github.com/wg/wrk>`_:
+  Modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.
+- `os-benchmark <https://github.com/cloudmercato/os-benchmark>`_ : Simple tool to measure object storage operations.
 
 Database
 --------
-- **redis-benchmark**
-- **sysbench**
-- **YCSB**
+- `redis-benchmark <https://redis.io/topics/benchmarks>`_:
+  Utility that simulates running commands done by N clients at the same time sending M total queries
+
+- `sysbench OLTP <https://github.com/akopytov/sysbench>`_ : 
+  Scriptable multi-threaded benchmark tool based on LuaJIT.- **YCSB**
 
 GPU
 ---
-- **ai-benchmark**
+- `AI-Benchmark <https://ai-benchmark.com/>`_
 - `lambda-tensorflow-benchmark <https://github.com/lambdal/lambda-tensorflow-benchmark>`_
 - `PyTorch Benchmarks <https://github.com/lambdal/deeplearning-benchmark/tree/master/pytorch>`_
-- **V-Ray**
+- `V-Ray Benchmark <https://www.chaosgroup.com/vray/benchmark>`_:
 
 Big data
 --------
-- **DFSIO**
-- **TeraSort**
-- **YCSB**
+- `HiBench <https://github.com/Intel-bigdata/HiBench>`_:
+  The bigdata micro benchmark suite
+- `YCSB <https://github.com/brianfrankcooper/YCSB>`_:
+  Framework and common set of workloads for evaluating the performance of different “key-value” and “cloud” serving stores
