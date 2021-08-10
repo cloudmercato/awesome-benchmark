@@ -43,7 +43,7 @@ Storage
   Spawns a number of threads or processes doing a particular type of I/O action as specified by the user.
 - `vdbench <https://sourceforge.net/projects/vdbench/>`_:
   Disk and tape I/O workload generator for verifying data integrity and measuring performance of storage.
-- `iozone <>`_:
+- `iozone <http://iozone.org/>`_:
   Filesystem benchmark tool
 
 Network
