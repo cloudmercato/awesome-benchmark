@@ -6,7 +6,7 @@ CPU
 
 - `Geekbench <https://www.geekbench.com/>`_ :
   Cross-platform benchmark that measures your system's performance with the press of a button.
-- `sysbench <https://github.com/akopytov/sysbench>`_ : 
+- `sysbench (cpu) <https://github.com/akopytov/sysbench>`_ : 
   Scriptable multi-threaded benchmark tool based on LuaJIT.
 - `openssl speed <https://www.openssl.org/docs/manmaster/man1/speed.html>`_:
   Cryptography performance measurement
@@ -17,9 +17,7 @@ CPU
 - `SPEC CPU <https://www.spec.org/cpu2017/>`_:
   SPEC's next-generation, industry-standardized, CPU intensive suites for measuring and comparing compute intensive performance, stressing a system's processor, memory subsystem and compiler.
 - `VASP <https://www.hpc.cineca.it/content/vasp-benchmark>`_:
-  The Vienna Ab initio Simulation Package is a computer program for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics, from first principles.
-- `STREAM <http://www.cs.virginia.edu/stream/>`_:
-  
+  The Vienna Ab initio Simulation Package is a computer program for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics, from first principles.  
 - `FinanceBench <http://cavazos-lab.github.io/FinanceBench/>`_:
   FinanceBench is aimed at those who work with financial code to see how certain code paths can be targeted for accelerators.
 - `LAMMPS Benchmarks <https://lammps.org/bench.html>`_: 
@@ -27,14 +25,9 @@ CPU
 
 RAM
 ---
-- `iperf <https://iperf.fr/>`_:
-  Active measurements of the maximum achievable bandwidth on IP networks.
-- `tracepath <https://linux.die.net/man/8/tracepath>`_:
-  Trace path to destination discovering MTU along this path.
-- `traceroute <https://linux.die.net/man/8/traceroute>`_:
-  racks the route packets taken from an IP network on their way to a given host.
-- `tcptraceroute <https://linux.die.net/man/1/tcptraceroute>`_:
-  traceroute implementation using TCP packets.
+- `STREAM <http://www.cs.virginia.edu/stream/>`_:
+- `sysbench (memory) <https://github.com/akopytov/sysbench>`_ : 
+  Scriptable multi-threaded benchmark tool based on LuaJIT.
 
 
 Storage
@@ -45,9 +38,19 @@ Storage
   Disk and tape I/O workload generator for verifying data integrity and measuring performance of storage.
 - `iozone <http://iozone.org/>`_:
   Filesystem benchmark tool
+- `hdparam <https://linux.die.net/man/8/hdparm>`_:
+  Command line interface to various kernel interfaces
 
 Network
 -------
+- `iperf <https://iperf.fr/>`_:
+  Active measurements of the maximum achievable bandwidth on IP networks.
+- `tracepath <https://linux.die.net/man/8/tracepath>`_:
+  Trace path to destination discovering MTU along this path.
+- `traceroute <https://linux.die.net/man/8/traceroute>`_:
+  racks the route packets taken from an IP network on their way to a given host.
+- `tcptraceroute <https://linux.die.net/man/1/tcptraceroute>`_:
+  traceroute implementation using TCP packets.
 
 HTTP
 ----
@@ -62,11 +65,10 @@ HTTP
 Database
 --------
 - `redis-benchmark <https://redis.io/topics/benchmarks>`_:
-  Utility that simulates running commands done by N clients at the same time sending M total queries
-  
+  Utility that simulates running commands done by N clients at the same time sending M total querie 
 - `memtier_benchmark <https://github.com/RedisLabs/memtier_benchmark>`_:
   Command line utility developed for load generation and bechmarking NoSQL key-value databases.
-- `sysbench OLTP <https://github.com/akopytov/sysbench>`_ : 
+- `sysbench (oltp) <https://github.com/akopytov/sysbench>`_ : 
   Scriptable multi-threaded benchmark tool based on LuaJIT.
 - `sysbench TPCC <https://github.com/Percona-Lab/sysbench-tpcc>`_: 
   TPCC-like workload for sysbench 1.0.x.
