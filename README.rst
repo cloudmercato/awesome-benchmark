@@ -61,6 +61,7 @@ HTTP
 - `wrk <https://github.com/wg/wrk>`_:
   Modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.
 - `os-benchmark <https://github.com/cloudmercato/os-benchmark>`_ : Simple tool to measure object storage operations.
+- `s3-benchmark https://github.com/dvassallo/s3-benchmark>_: Measure S3's performance from any location
 
 Database
 --------
