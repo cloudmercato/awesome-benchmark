@@ -61,7 +61,7 @@ HTTP
 - `wrk <https://github.com/wg/wrk>`_:
   Modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.
 - `os-benchmark <https://github.com/cloudmercato/os-benchmark>`_ : Simple tool to measure object storage operations.
-- `s3-benchmark https://github.com/dvassallo/s3-benchmark>_: Measure S3's performance from any location
+- `s3-benchmark <https://github.com/dvassallo/s3-benchmark>_: Measure S3's performance from any location
 
 Database
 --------
@@ -90,6 +90,21 @@ GPU
 Big data
 --------
 - `HiBench <https://github.com/Intel-bigdata/HiBench>`_:
-  The bigdata micro benchmark suite
+  The bigdata micro benchmark suite.
 - `YCSB <https://github.com/brianfrankcooper/YCSB>`_:
-  Framework and common set of workloads for evaluating the performance of different “key-value” and “cloud” serving stores
+  Framework and common set of workloads for evaluating the performance of different “key-value” and “cloud” serving stores.
+  
+Scheduler
+---------
+
+- `Open Charge Tester (OCT) <https://github.com/TheGhouls/oct>`_:
+  The tools to load testing just anything at any scale.
+- `Apache JMeter <https://jmeter.apache.org/index.html>`_:
+  Load test functional behavior and measure performance.
+  
+  
+  
+Comment
+-------
+
+Do not forget that any task/workload can be a benchmark, it always depends of your goal.
