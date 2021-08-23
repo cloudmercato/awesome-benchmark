@@ -77,6 +77,8 @@ Database
   Framework and common set of workloads for evaluating the performance of different “key-value” and “cloud” serving stores
 - `benchyou <https://github.com/xelabs/benchyou>`_:
   benchyou is a benchmark tool for MySQL, similar Sysbench.
+- `Cassandra Stress <https://cassandra.apache.org/doc/latest/cassandra/tools/cassandra_stress.html>`_:
+  Benchmark and load-test a Cassandra cluster
   
 GPU
 ---
