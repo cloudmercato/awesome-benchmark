@@ -61,7 +61,7 @@ HTTP
 - `wrk <https://github.com/wg/wrk>`_:
   Modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.
 - `os-benchmark <https://github.com/cloudmercato/os-benchmark>`_ : Simple tool to measure object storage operations.
-- `s3-benchmark <https://github.com/dvassallo/s3-benchmark>_: Measure S3's performance from any location
+- `s3-benchmark <https://github.com/dvassallo/s3-benchmark>_`: Measure S3's performance from any location
 
 Database
 --------
@@ -79,6 +79,8 @@ Database
   benchyou is a benchmark tool for MySQL, similar Sysbench.
 - `Cassandra Stress <https://cassandra.apache.org/doc/latest/cassandra/tools/cassandra_stress.html>`_:
   Benchmark and load-test a Cassandra cluster
+- `HammerDB <https://www.hammerdb.com/index.html>`_:
+  Benchmarking and load testing software for the worlds most popular databases supporting Oracle Database, SQL Server, IBM Db2, MySQL, MariaDB and PostgreSQL.
   
 GPU
 ---
