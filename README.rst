@@ -39,7 +39,8 @@ Storage
 - `iozone <http://iozone.org/>`_:
   Filesystem benchmark tool
 - `hdparam <https://linux.die.net/man/8/hdparm>`_:
-  Command line interface to various kernel interfaces
+  Command line interface to various kernel interfaces.
+- `oiping <https://github.com/koct9i/ioping>`_ Shows disk latency in the same way as ping shows network latency.
 
 Network
 -------
