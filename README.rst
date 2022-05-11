@@ -82,6 +82,7 @@ Database
 - `HammerDB <https://www.hammerdb.com/index.html>`_:
   Benchmarking and load testing software for the worlds most popular databases supporting Oracle Database, SQL Server, IBM Db2, MySQL, MariaDB and PostgreSQL.
 - `mysqlslap <https://dev.mysql.com/doc/refman/8.0/en/mysqlslap.html>`_: Emulate client load for a MySQL server and to report the timing of each stage.
+- `pgbench <https://www.postgresql.org/docs/current/pgbench.html>`_: It runs the same sequence of SQL commands over and over and then calculates the average transaction rate.
 
   
 GPU
