@@ -20,8 +20,10 @@ CPU
   The Vienna Ab initio Simulation Package is a computer program for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics, from first principles.  
 - `FinanceBench <http://cavazos-lab.github.io/FinanceBench/>`_:
   FinanceBench is aimed at those who work with financial code to see how certain code paths can be targeted for accelerators.
-- `LAMMPS Benchmarks <https://lammps.org/bench.html>`_: 
-- `AI-Benchmark <https://ai-benchmark.com/>`_
+- `LAMMPS Benchmarks <https://lammps.org/bench.html>`_: Simple suite with Large-scale Atomic/Molecular Massively Parallel Simulator workloads
+- `AI-Benchmark <https://ai-benchmark.com/>`_: Deep learning workloads
+- `CoreMark <https://github.com/eembc/coremark>`_: Methods for testing only a processor's core features
+- `CoreMark®-PRO <https://github.com/eembc/coremark-pro>`_: Comprehensive, advanced processor benchmark that works with and enhances the market-proven industry-standard EEMBC CoreMark®
 
 RAM
 ---
