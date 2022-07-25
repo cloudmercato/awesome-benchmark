@@ -66,8 +66,8 @@ HTTP
 - `os-benchmark <https://github.com/cloudmercato/os-benchmark>`_ : Simple tool to measure object storage operations.
 - `s3-benchmark <https://github.com/dvassallo/s3-benchmark>`_: Measure S3's performance from any location
 
-Database
---------
+Database and messaging
+----------------------
 - `redis-benchmark <https://redis.io/topics/benchmarks>`_:
   Utility that simulates running commands done by N clients at the same time sending M total querie 
 - `memtier_benchmark <https://github.com/RedisLabs/memtier_benchmark>`_:
@@ -86,6 +86,7 @@ Database
   Benchmarking and load testing software for the worlds most popular databases supporting Oracle Database, SQL Server, IBM Db2, MySQL, MariaDB and PostgreSQL.
 - `mysqlslap <https://dev.mysql.com/doc/refman/8.0/en/mysqlslap.html>`_: Emulate client load for a MySQL server and to report the timing of each stage.
 - `pgbench <https://www.postgresql.org/docs/current/pgbench.html>`_: It runs the same sequence of SQL commands over and over and then calculates the average transaction rate.
+- `OpenMessaging Benchmark Framework <https://github.com/openmessaging/benchmark>`_: Suite of tools that make it easy to benchmark distributed messaging systems in the cloud.
 
   
 GPU
