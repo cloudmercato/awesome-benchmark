@@ -114,7 +114,13 @@ Scheduler
 - `Apache JMeter <https://jmeter.apache.org/index.html>`_:
   Load test functional behavior and measure performance.
   
-  
+Ecology and environment
+-----------------------
+
+- `Eco benchmark <https://github.com/Boavizta/ecobenchmark-applicationweb-backend>`_:
+  Try to compare the energy consumption, for several languages.
+- `Scaphandre <https://github.com/hubblo-org/scaphandre>`_:
+  Metrology agent dedicated to electrical power consumption metrics.
   
 Comment
 -------
