@@ -24,6 +24,7 @@ CPU
 - `AI-Benchmark <https://ai-benchmark.com/>`_: Deep learning workloads
 - `CoreMark <https://github.com/eembc/coremark>`_: Methods for testing only a processor's core features
 - `CoreMark®-PRO <https://github.com/eembc/coremark-pro>`_: Comprehensive, advanced processor benchmark that works with and enhances the market-proven industry-standard EEMBC CoreMark®
+- `db-benchmark <https://github.com/h2oai/db-benchmark>`_: Reproducible benchmarking of database-like operations in single-node environment.
 
 RAM
 ---
