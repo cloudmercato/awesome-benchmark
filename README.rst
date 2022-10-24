@@ -99,6 +99,8 @@ GPU
 - `V-Ray Benchmark <https://www.chaosgroup.com/vray/benchmark>`_:
 - `Mixbench <https://github.com/ekondis/mixbench>`_:
   Evaluate performance bounds of GPUs on mixed operational intensity kernels.
+- `gpu-burn <https://github.com/wilicc/gpu-burn>`_:
+  Multi-GPU CUDA stress test.
 
 Big data
 --------
