@@ -26,6 +26,7 @@ CPU
 - `CoreMark®-PRO <https://github.com/eembc/coremark-pro>`_: Comprehensive, advanced processor benchmark that works with and enhances the market-proven industry-standard EEMBC CoreMark®
 - `db-benchmark <https://github.com/h2oai/db-benchmark>`_: Reproducible benchmarking of database-like operations in single-node environment.
 - `Renaissance Benchmark Suite <https://github.com/renaissance-benchmarks/renaissance>`_: Aggregates common modern JVM workloads, including, but not limited to, Big Data, machine-learning, and functional programming.
+- `The Computer Language Benchmarks Game <https://salsa.debian.org/benchmarksgame-team/benchmarksgame>`_: Toy-program performance measurements for ~24 language implementations.
 
 
 RAM
@@ -57,6 +58,8 @@ Network
   racks the route packets taken from an IP network on their way to a given host.
 - `tcptraceroute <https://linux.die.net/man/1/tcptraceroute>`_:
   traceroute implementation using TCP packets.
+- `paris-traceroute <https://paris-traceroute.net/index.html>`_: Paris traceroute is a new version of the well-known network diagnosis and measurement tool. It addresses problems caused by load balancers with the initial implementation of traceroute. 
+- `dublin-traceroute <https://github.com/insomniacslk/dublin-traceroute>`_: Dublin Traceroute is a NAT-aware multipath traceroute tool.
 
 HTTP
 ----
