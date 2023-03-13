@@ -95,6 +95,8 @@ Database and messaging
 - `mysqlslap <https://dev.mysql.com/doc/refman/8.0/en/mysqlslap.html>`_: Emulate client load for a MySQL server and to report the timing of each stage.
 - `pgbench <https://www.postgresql.org/docs/current/pgbench.html>`_: It runs the same sequence of SQL commands over and over and then calculates the average transaction rate.
 - `OpenMessaging Benchmark Framework <https://github.com/openmessaging/benchmark>`_: Suite of tools that make it easy to benchmark distributed messaging systems in the cloud.
+- `opensearch-benchmark <https://github.com/opensearch-project/OpenSearch-Benchmark>`_: Macrobenchmarking framework for OpenSearch
+
 
   
 GPU
