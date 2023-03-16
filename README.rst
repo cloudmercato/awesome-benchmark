@@ -27,7 +27,7 @@ CPU
 - `db-benchmark <https://github.com/h2oai/db-benchmark>`_: Reproducible benchmarking of database-like operations in single-node environment.
 - `Renaissance Benchmark Suite <https://github.com/renaissance-benchmarks/renaissance>`_: Aggregates common modern JVM workloads, including, but not limited to, Big Data, machine-learning, and functional programming.
 - `The Computer Language Benchmarks Game <https://salsa.debian.org/benchmarksgame-team/benchmarksgame>`_: Toy-program performance measurements for ~24 language implementations.
-
+- `pyhpc-benchmark <https://github.com/dionhaefner/pyhpc-benchmarks>`_: Suite of benchmarks to test the sequential CPU and GPU performance of various computational backends with Python frontends
 
 RAM
 ---
