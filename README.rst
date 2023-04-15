@@ -29,6 +29,7 @@ CPU
 - `The Computer Language Benchmarks Game <https://salsa.debian.org/benchmarksgame-team/benchmarksgame>`_: Toy-program performance measurements for ~24 language implementations.
 - `pyhpc-benchmark <https://github.com/dionhaefner/pyhpc-benchmarks>`_: Suite of benchmarks to test the sequential CPU and GPU performance of various computational backends with Python frontends
 - `DeepSparse Benchmark <https://github.com/neuralmagic/deepsparse/tree/main/src/deepsparse/benchmark>`_: Command-line tool for benchmarking the DeepSparse Engine with ONNX models
+- `phpbenchmarks <https://github.com/phpbenchmarks>`_: Test suite for vanilla PHP, Laravel or Symfony
 
 RAM
 ---
