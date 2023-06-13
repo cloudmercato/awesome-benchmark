@@ -112,6 +112,7 @@ GPU
   Evaluate performance bounds of GPUs on mixed operational intensity kernels.
 - `gpu-burn <https://github.com/wilicc/gpu-burn>`_:
   Multi-GPU CUDA stress test.
+- `nvbandwidth <https://github.com/NVIDIA/nvbandwidth>`_: A tool for bandwidth measurements on NVIDIA GPUs.
 
 Big data
 --------
