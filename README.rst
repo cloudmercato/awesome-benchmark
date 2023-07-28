@@ -30,6 +30,8 @@ CPU
 - `pyhpc-benchmark <https://github.com/dionhaefner/pyhpc-benchmarks>`_: Suite of benchmarks to test the sequential CPU and GPU performance of various computational backends with Python frontends
 - `DeepSparse Benchmark <https://github.com/neuralmagic/deepsparse/tree/main/src/deepsparse/benchmark>`_: Command-line tool for benchmarking the DeepSparse Engine with ONNX models
 - `phpbenchmarks <https://github.com/phpbenchmarks>`_: Test suite for vanilla PHP, Laravel or Symfony
+- `Compute Benchmarks <https://github.com/intel/compute-benchmarks>`_: A benchmark suite developed and maintained by NEO driver development team in order to provide a stable environment, which allows checking and reproducing performance for various parts of the driver
+
 
 RAM
 ---
