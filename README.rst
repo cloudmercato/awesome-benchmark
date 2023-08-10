@@ -31,6 +31,8 @@ CPU
 - `DeepSparse Benchmark <https://github.com/neuralmagic/deepsparse/tree/main/src/deepsparse/benchmark>`_: Command-line tool for benchmarking the DeepSparse Engine with ONNX models
 - `phpbenchmarks <https://github.com/phpbenchmarks>`_: Test suite for vanilla PHP, Laravel or Symfony
 - `Compute Benchmarks <https://github.com/intel/compute-benchmarks>`_: A benchmark suite developed and maintained by NEO driver development team in order to provide a stable environment, which allows checking and reproducing performance for various parts of the driver
+- `Large Text Compression Benchmark <http://mattmahoney.net/dc/text.html>`_: Methodologies and set of results from Wikipedia's text compression through various tool
+- `benchdnn <https://github.com/oneapi-src/oneDNN/blob/master/tests/benchdnn/README.md>`_: Extended and robust correctness verification and performance benchmarking tool for the primitives provided by oneDNN
 
 
 RAM
