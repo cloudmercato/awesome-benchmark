@@ -79,6 +79,9 @@ HTTP
 - `os-benchmark <https://github.com/cloudmercato/os-benchmark>`_ : Simple tool to collect metrics about all object storage.
 - `s3-benchmark <https://github.com/dvassallo/s3-benchmark>`_: Measure S3's performance from any location
 - `warp <https://github.com/awesome-benchmark/warp>`_: S3 benchmarking tool 
+- `COSBench <https://github.com/intel-cloud/cosbench>`_: Tool to measure the performance of Cloud Object Storage services.
+- `Gosbench <https://github.com/mulbc/gosbench>`_: Golang reimplementation of Cosbench. It is a distributed S3 performance benchmark tool with Prometheus exporter leveraging the official Golang AWS SDK 
+
 
 Database and messaging
 ----------------------
@@ -103,8 +106,6 @@ Database and messaging
 - `OpenMessaging Benchmark Framework <https://github.com/openmessaging/benchmark>`_: Suite of tools that make it easy to benchmark distributed messaging systems in the cloud.
 - `opensearch-benchmark <https://github.com/opensearch-project/OpenSearch-Benchmark>`_: Macrobenchmarking framework for OpenSearch
 - `Rally <https://github.com/elastic/rally>`_: Macrobenchmarking framework for Elasticsearch
-
-
   
 GPU
 ---
