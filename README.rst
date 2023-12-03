@@ -4,8 +4,6 @@ Awesome system benchmark tools
 CPU
 ---
 
-- `Geekbench <https://www.geekbench.com/>`_ :
-  Cross-platform benchmark that measures your system's performance with the press of a button.
 - `sysbench (cpu) <https://github.com/akopytov/sysbench>`_ : 
   Scriptable multi-threaded benchmark tool based on LuaJIT.
 - `openssl speed <https://www.openssl.org/docs/manmaster/man1/speed.html>`_:
@@ -18,17 +16,13 @@ CPU
   SPEC's next-generation, industry-standardized, CPU intensive suites for measuring and comparing compute intensive performance, stressing a system's processor, memory subsystem and compiler.
 - `VASP <https://www.hpc.cineca.it/content/vasp-benchmark>`_:
   The Vienna Ab initio Simulation Package is a computer program for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics, from first principles.  
-- `FinanceBench <http://cavazos-lab.github.io/FinanceBench/>`_:
-  FinanceBench is aimed at those who work with financial code to see how certain code paths can be targeted for accelerators.
-- `LAMMPS Benchmarks <https://lammps.org/bench.html>`_: Simple suite with Large-scale Atomic/Molecular Massively Parallel Simulator workloads
-- `AI-Benchmark <https://ai-benchmark.com/>`_: Deep learning workloads
 - `CoreMark <https://github.com/eembc/coremark>`_: Methods for testing only a processor's core features
 - `CoreMark®-PRO <https://github.com/eembc/coremark-pro>`_: Comprehensive, advanced processor benchmark that works with and enhances the market-proven industry-standard EEMBC CoreMark®
+- `Geekbench <https://www.geekbench.com/>`_ :
+  Cross-platform benchmark that measures your system's performance with the press of a button.
 - `db-benchmark <https://github.com/h2oai/db-benchmark>`_: Reproducible benchmarking of database-like operations in single-node environment.
 - `Renaissance Benchmark Suite <https://github.com/renaissance-benchmarks/renaissance>`_: Aggregates common modern JVM workloads, including, but not limited to, Big Data, machine-learning, and functional programming.
 - `The Computer Language Benchmarks Game <https://salsa.debian.org/benchmarksgame-team/benchmarksgame>`_: Toy-program performance measurements for ~24 language implementations.
-- `pyhpc-benchmark <https://github.com/dionhaefner/pyhpc-benchmarks>`_: Suite of benchmarks to test the sequential CPU and GPU performance of various computational backends with Python frontends
-- `DeepSparse Benchmark <https://github.com/neuralmagic/deepsparse/tree/main/src/deepsparse/benchmark>`_: Command-line tool for benchmarking the DeepSparse Engine with ONNX models
 - `phpbenchmarks <https://github.com/phpbenchmarks>`_: Test suite for vanilla PHP, Laravel or Symfony
 - `Compute Benchmarks <https://github.com/intel/compute-benchmarks>`_: A benchmark suite developed and maintained by NEO driver development team in order to provide a stable environment, which allows checking and reproducing performance for various parts of the driver
 - `Large Text Compression Benchmark <http://mattmahoney.net/dc/text.html>`_: Methodologies and set of results from Wikipedia's text compression through various tool
@@ -68,6 +62,40 @@ Network
 - `dublin-traceroute <https://github.com/insomniacslk/dublin-traceroute>`_: Dublin Traceroute is a NAT-aware multipath traceroute tool.
 - `mtr <https://github.com/traviscross/mtr>`_: Combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 
+GPU
+---
+- `V-Ray Benchmark <https://www.chaosgroup.com/vray/benchmark>`_:
+- `Mixbench <https://github.com/ekondis/mixbench>`_:
+  Evaluate performance bounds of GPUs on mixed operational intensity kernels.
+- `gpu-burn <https://github.com/wilicc/gpu-burn>`_:
+  Multi-GPU CUDA stress test.
+- `nvbandwidth <https://github.com/NVIDIA/nvbandwidth>`_: A tool for bandwidth measurements on NVIDIA GPUs.
+
+HPC
+---
+- `OSU Micro-Benchmarks (OMB) <http://mvapich.cse.ohio-state.edu/benchmarks/>`_:
+  Suite of benchmarks for measuring and evaluating the performance of MPI operations for point-to-point, multi-pair, and collective communications.
+- `mpi-benchmarks <https://github.com/intel/mpi-benchmarks/>`_:
+  Intel(R) MPI Benchmarks provides a set of elementary benchmarks that conform to MPI-1, MPI-2, and MPI-3 standard.
+- `FinanceBench <http://cavazos-lab.github.io/FinanceBench/>`_:
+  FinanceBench is aimed at those who work with financial code to see how certain code paths can be targeted for accelerators.
+- `LAMMPS Benchmarks <https://lammps.org/bench.html>`_: Simple suite with Large-scale Atomic/Molecular Massively Parallel Simulator workloads
+- `pyhpc-benchmark <https://github.com/dionhaefner/pyhpc-benchmarks>`_: Suite of benchmarks to test the sequential CPU and GPU performance of various computational backends with Python frontends
+
+
+AI
+--
+- `AI-Benchmark <https://ai-benchmark.com/>`_: Deep learning workloads
+- `lambda-tensorflow-benchmark <https://github.com/lambdal/lambda-tensorflow-benchmark>`_
+- `PyTorch Benchmarks <https://github.com/lambdal/deeplearning-benchmark/tree/master/pytorch>`_
+- `Whisper Benchmark <https://github.com/cloudmercato/whisper-benchmark>`_:
+  Simple tool to evaluate performance of `Whisper <https://github.com/openai/whisper>`_ models and configurations.
+- `InvokeAI Benchmark <https://github.com/cloudmercato/invokeai-benchmark>`_:
+  Simple tool to evaluate performance of InvokeAI.
+- `DeepSparse Benchmark <https://github.com/neuralmagic/deepsparse/tree/main/src/deepsparse/benchmark>`_: Command-line tool for benchmarking the DeepSparse Engine with ONNX models
+
+
+
 HTTP
 ----
 - `ab (apache benchmark) <http://httpd.apache.org/docs/2.4/programs/ab.html>`_:
@@ -106,18 +134,6 @@ Database and messaging
 - `OpenMessaging Benchmark Framework <https://github.com/openmessaging/benchmark>`_: Suite of tools that make it easy to benchmark distributed messaging systems in the cloud.
 - `opensearch-benchmark <https://github.com/opensearch-project/OpenSearch-Benchmark>`_: Macrobenchmarking framework for OpenSearch
 - `Rally <https://github.com/elastic/rally>`_: Macrobenchmarking framework for Elasticsearch
-  
-GPU
----
-- `AI-Benchmark <https://ai-benchmark.com/>`_
-- `lambda-tensorflow-benchmark <https://github.com/lambdal/lambda-tensorflow-benchmark>`_
-- `PyTorch Benchmarks <https://github.com/lambdal/deeplearning-benchmark/tree/master/pytorch>`_
-- `V-Ray Benchmark <https://www.chaosgroup.com/vray/benchmark>`_:
-- `Mixbench <https://github.com/ekondis/mixbench>`_:
-  Evaluate performance bounds of GPUs on mixed operational intensity kernels.
-- `gpu-burn <https://github.com/wilicc/gpu-burn>`_:
-  Multi-GPU CUDA stress test.
-- `nvbandwidth <https://github.com/NVIDIA/nvbandwidth>`_: A tool for bandwidth measurements on NVIDIA GPUs.
 
 Big data
 --------
