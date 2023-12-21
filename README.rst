@@ -117,6 +117,8 @@ Database and messaging
   Utility that simulates running commands done by N clients at the same time sending M total querie 
 - `memtier_benchmark <https://github.com/RedisLabs/memtier_benchmark>`_:
   Command line utility developed for load generation and bechmarking NoSQL key-value databases.
+- `rpc-perf <https://github.com/twitter/rpc-perf>`_:
+  Tool for measuring the performance of RPC services and is primarily used to benchmark caching systems.
 - `sysbench (oltp) <https://github.com/akopytov/sysbench>`_ : 
   Scriptable multi-threaded benchmark tool based on LuaJIT.
 - `sysbench TPCC <https://github.com/Percona-Lab/sysbench-tpcc>`_: 
