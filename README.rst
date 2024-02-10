@@ -61,6 +61,9 @@ Network
 - `paris-traceroute <https://paris-traceroute.net/index.html>`_: Paris traceroute is a new version of the well-known network diagnosis and measurement tool. It addresses problems caused by load balancers with the initial implementation of traceroute. 
 - `dublin-traceroute <https://github.com/insomniacslk/dublin-traceroute>`_: Dublin Traceroute is a NAT-aware multipath traceroute tool.
 - `mtr <https://github.com/traviscross/mtr>`_: Combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
+- `netperf <https://github.com/HewlettPackard/netperf>`_: CTCP/UDP/sockets performance benchmark
+- `sockperf <https://github.com/Mellanox/sockperf>`_: Network benchmarking utility over socket API that was designed for testing performance (latency and throughput) of high-performance systems
+- **ping**: Send ICMP ECHO_REQUEST packets to network hosts
 
 GPU
 ---
