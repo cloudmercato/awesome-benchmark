@@ -139,6 +139,8 @@ Database and messaging
 - `OpenMessaging Benchmark Framework <https://github.com/openmessaging/benchmark>`_: Suite of tools that make it easy to benchmark distributed messaging systems in the cloud.
 - `opensearch-benchmark <https://github.com/opensearch-project/OpenSearch-Benchmark>`_: Macrobenchmarking framework for OpenSearch
 - `Rally <https://github.com/elastic/rally>`_: Macrobenchmarking framework for Elasticsearch
+- `ann-benchmarks <https://github.com/erikbern/ann-benchmarks>`_: Tools to benchmark various implementations of approximate nearest neighbor (ANN)
+- `big-ann-benchmarks <https://github.com/harsha-simhadri/big-ann-benchmarks>`_: Tools to benchmark various implementations of approximate nearest neighbor (ANN)
 
 Big data
 --------
