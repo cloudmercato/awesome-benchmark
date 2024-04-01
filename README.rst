@@ -96,6 +96,7 @@ AI
 - `InvokeAI Benchmark <https://github.com/cloudmercato/invokeai-benchmark>`_:
   Simple tool to evaluate performance of InvokeAI.
 - `DeepSparse Benchmark <https://github.com/neuralmagic/deepsparse/tree/main/src/deepsparse/benchmark>`_: Command-line tool for benchmarking the DeepSparse Engine with ONNX models
+- `BitNet CPU <https://github.com/catid/bitnet_cpu>`_: BitNet inference performance evaluation on a CPU
 
 
 
