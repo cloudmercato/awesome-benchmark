@@ -103,7 +103,9 @@ AI
 - `DeepSparse Benchmark <https://github.com/neuralmagic/deepsparse/tree/main/src/deepsparse/benchmark>`_: Command-line tool for benchmarking the DeepSparse Engine with ONNX models
 - `BitNet CPU <https://github.com/catid/bitnet_cpu>`_: BitNet inference performance evaluation on a CPU
 - `LLMPerf <https://github.com/ray-project/llmperf>`_: A Tool for evaulation the performance of LLM APIs
-- `vLLM Performance benchmark <https://buildkite.com/vllm/performance-benchmark/builds/3924>`_: Compares the performance of vllm against other LLM serving engines
+- `vLLM Performance benchmark <https://buildkite.com/vllm/performance-benchmark/builds/3924>`_: Compares the performance of vllm against other LLM serving engine
+- `RepoBench <https://github.com/Leolty/repobench>`_: Repository-level Code auto-completion systems evaluation
+- `SWE-bench <https://github.com/princeton-nlp/SWE-bench>`_: Benchmark for evaluating large language models on real world software issues collected from GitHub.
 
 
 
