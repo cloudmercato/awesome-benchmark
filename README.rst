@@ -107,6 +107,7 @@ AI
 - `RepoBench <https://github.com/Leolty/repobench>`_: Repository-level Code auto-completion systems evaluation
 - `SWE-bench <https://github.com/princeton-nlp/SWE-bench>`_: Benchmark for evaluating large language models on real world software issues collected from GitHub.
 - `Massive Text Embedding Benchmark <https://github.com/embeddings-benchmark/mteb>`_: MTEB spans 8 embedding tasks covering a total of 58 datasets and 112 languages.
+- `VBench <https://github.com/Vchitect/VBench>`_: Comprehensive Benchmark Suite for Video Generative Models.
 
 
 
