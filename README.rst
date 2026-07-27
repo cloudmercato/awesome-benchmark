@@ -106,6 +106,7 @@ AI
 - `vLLM Performance benchmark <https://buildkite.com/vllm/performance-benchmark/builds/3924>`_: Compares the performance of vllm against other LLM serving engine
 - `RepoBench <https://github.com/Leolty/repobench>`_: Repository-level Code auto-completion systems evaluation
 - `SWE-bench <https://github.com/princeton-nlp/SWE-bench>`_: Benchmark for evaluating large language models on real world software issues collected from GitHub.
+- `ClawBench <https://github.com/reacher-z/ClawBench>`_: Open benchmark for evaluating browser agents on everyday online tasks across live websites, with reproducible execution traces and request-level outcome checks. See the `paper <https://arxiv.org/abs/2604.08523>`_ and `project page <https://claw-bench.com/>`_.
 - `Massive Text Embedding Benchmark <https://github.com/embeddings-benchmark/mteb>`_: MTEB spans 8 embedding tasks covering a total of 58 datasets and 112 languages.
 - `VBench <https://github.com/Vchitect/VBench>`_: Comprehensive Benchmark Suite for Video Generative Models.
 
